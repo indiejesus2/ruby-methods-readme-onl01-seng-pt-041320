@@ -2,7 +2,7 @@
 
 def greeting
   count = 0;
-  while (count < 11)
+  until (count < 11) do
     puts "Hello World!";
     count++
   end
