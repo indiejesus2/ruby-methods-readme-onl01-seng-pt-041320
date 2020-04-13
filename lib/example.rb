@@ -3,8 +3,8 @@
 def greeting
   var count = 0;
   while (count < 11) {
-    puts "Hello World!"
-    count ++;
+    puts "Hello World!";
+    count++;
   }
 end
 
