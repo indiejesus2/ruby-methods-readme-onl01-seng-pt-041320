@@ -6,6 +6,5 @@ def greeting
     puts "Hello World!";
     count++
   end
-end
 
 greeting
