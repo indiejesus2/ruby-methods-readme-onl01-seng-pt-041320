@@ -7,3 +7,5 @@ def greeting
     count ++;
   }
 end
+
+greeting
